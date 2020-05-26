@@ -1,6 +1,6 @@
 # Timeseries-forecasting-of-Crimes-in-Boston
 I also build a Timeseries Model that Forecasts daily crime rates during using SARIMAX model
-The model could be trained on different data specific to geographical location and type of offence that will result in forecasting the chances of major crimes in specific locations
+ The model could be trained on different data specific to geographical location and type of offence that will result in forecasting the chances of major crimes in specific locations
 
 I also analysed and visualized Boston Crimes Dataset
 I was able to answer following questions
