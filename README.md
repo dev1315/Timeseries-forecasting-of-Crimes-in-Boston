@@ -24,4 +24,4 @@ During Evening crime rate increses especially during 4-6 P.M
 There are plots that suggest occurance of Major crime during weekdays
 
 
-# I have also used gtts (Google Text To Speech) library for hearing the objective and results  of the project
+**I have also used gtts (Google Text To Speech) library for hearing the objective and results  of the project**
