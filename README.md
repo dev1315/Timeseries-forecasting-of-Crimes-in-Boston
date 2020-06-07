@@ -1,5 +1,5 @@
 # Timeseries-forecasting-of-Crimes-in-Boston
-I also build a Timeseries Model that Forecasts daily crime rates during using SARIMAX model
+I build a Timeseries Model that Forecasts daily crime rates during using SARIMAX model
  The model could be trained on different data specific to geographical location and type of offence that will result in forecasting the chances of major crimes in specific locations
 
 I also analysed and visualized Boston Crimes Dataset
@@ -23,3 +23,5 @@ During Weekends crime rate decreases
 During Evening crime rate increses especially during 4-6 P.M
 There are plots that suggest occurance of Major crime during weekdays
 
+
+# I have also used gtts (Google Text To Speech) library for hearing the objective and results  of the project
